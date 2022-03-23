@@ -1295,8 +1295,8 @@ rs-tab,
 rs-bullet,
 rs-bullets,
 rs-navmask,
-rs-tabs,
-rs-arrow 					{	display:block;}
+rs-tabs
+ 					{	display:block;}
 
 .tp-thumbs.navbar,
 .tp-bullets.navbar,
